@@ -1,0 +1,11 @@
+name: nwp
+channels:
+ - conda-forge
+dependencies:
+ - python>=3.7
+ - iris
+ - iris-grib
+ - pytables
+ - pandas
+ - jupyterlab
+ - matplotlib
